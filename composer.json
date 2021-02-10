@@ -1,0 +1,25 @@
+{
+    "name": "butsds/test",
+    "description": "Test",
+    "type": "library",
+    "license": "GPL-3.0",
+    "homepage": "https://github.com/butsds/test",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Butskikh Dmitry",
+            "email": "butsds@yandex.ru"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "files": [
+            
+        ],
+        "psr-4": {
+            "Butsds\\Sdk\\": "src/"
+        }
+    }
+}
